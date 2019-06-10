@@ -1,0 +1,58 @@
+.section {
+  object-fit: cover;
+  display:inline-block;
+
+}
+
+.img {
+  height: 150px;
+  width:150px;
+  margin: 5px;
+}
+
+h1 {
+font-family: 'inconsolate', monospace;
+color: #bfbfbf
+}
+h5{
+font-family: 'inconsolate', monospace;
+color: #bfbfbf
+}
+.parallax {
+  background: url('file:///Users/apple/Desktop/kwk-project/friends.jpg');
+  background-size: cover;
+  background-attachment: fixed;
+  height: 720px;
+}
+.section1 {
+  border: 2.5px solid #bfbfbf
+}
+h1{
+  font-family: 'Cookie', cursive;
+  font-size: 20px;
+}
+div {
+  height: 1000px;
+}
+#s2 {
+  margin-right: 550px;
+  margin-left: 55px;
+}
+#s3 {
+  margin-left: 548px;
+}
+#s4{
+  margin-left: 300px;
+  margin-right: 300px;
+}
+#s6{
+  margin-left: 300px;
+  margin-right: 300px;
+}
+#s5{
+  margin-right: 550px;
+  margin-left: 55px;
+}
+#s7 {
+  margin-left: 548px;
+}
